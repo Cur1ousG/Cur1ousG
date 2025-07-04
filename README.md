@@ -1,5 +1,5 @@
 # Hello, I'm Gregory-Shawn
-<a href="linkedin.com/in/gregory-shawn-masule-2b390mu33ya56twa9"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[linkedin.com/in/gregory-shawn-masule-2b390mu33ya56twa9](https://www.linkedin.com/in/gregory-shawn-masule-2b3903356/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
