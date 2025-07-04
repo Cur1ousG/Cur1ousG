@@ -1,14 +1,12 @@
 # Hello, I'm Gregory-Shawn
 <a href="www.linkedin.com/in/gregory-shawn-masule-2b390mu33ya56twa9"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am currently a University student studying for a Bachelors Degree in Computer Science in Cybersecurity and have a profound interest in technology, how it works and a dedication to solving complex problems and situations where I can make a difference and help.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to find myself this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
